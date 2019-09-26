@@ -1,0 +1,97 @@
+.background {
+    background-color: aqua;
+}
+
+.link {
+    background-color: red;
+}
+
+.link2 {
+    background-color: rgb(134, 136, 160);
+}
+
+.link3 {
+    font-size: 24px;
+}
+
+.link4 {
+    color: white;
+}
+
+.border {
+	border: 3px solid red;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+.even {
+	width: 150px;
+	border: 3px solid red;
+}
+
+.odd {
+	width: 150px;
+	border: 3px solid green;
+}
+
+.append {
+	background-color: yellow;
+}
+
+.prepend {
+	background-color: beige; 
+}
+
+.special {
+	background-color: teal; 
+}
+
+.special-2 {
+	color: gray;
+}
+
+.div-class {
+	background-color: pink;
+}
+
+.input-class {
+	background-color: orange;
+}
+
+.change {
+	font-size: 40px;
+	color: blue;
+	background-color: red;
+}
+
+.btn {
+	display: block;
+	background-color: green;
+	padding: 20px;
+	font-size: 40px;
+	color: white;
+}
+
+.simple {
+	padding: 40px;
+	background-color: red;
+	font-size: 40px;
+	color: blue;
+}
+
+.complex {
+	width: 300px;
+	height: 300px;
+	background-color: yellow;
+	font-size: 40px;
+}
+
+.hide {
+	display: none;
+}
